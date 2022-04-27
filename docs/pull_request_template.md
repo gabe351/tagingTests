@@ -11,19 +11,13 @@ Please describe here any relevant comments about your PR. For example:
 - Screenshots/videos (please resize them to look nicer using <img src="link_here" width="200">)
 -->
 
-#### Who is reviewing it?
-<!--
-If applicable, add any required assignees to the assignees list at the right menu:
--->
-
 #### How should this be tested?
-<!-- It's important to add this info in the respective Jira ticket. If testing concerns apply to the PR, please mention that here. -->
+<!-- It's important to add this info if testing concerns apply to the PR, please mention that here. -->
 
 #### What are the relevant tickets?
 <!--
-Please add the JIRA number and link. For example:
-Fixes: MOB-1234 (not necessary to add the JIRA link, Github will automatically create the link here).
-Also add JIRA numbers to the PR title so it shows up on JIRA.
+Please add the task link. For example:
+Fixes: Link
 -->
 
 #### Notes on Review Process
